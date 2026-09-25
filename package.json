@@ -1,6 +1,7 @@
 {
   "name": "cs-326",
   "version": "1.0.0",
+  "type": "module",
   "description": "Welcome! This guide will get your development environment up and running, even if you have never used Docker or a dev container before. Read through each section in order the first time — it only takes about 10 minutes.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +10,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
     "express": "^5.2.1"
   }
